@@ -1,6 +1,6 @@
 package com.keonkotlin.keon_kotlin.auth
 
-import com.keonkotlin.keon_kotlin.exceptions.ErrorMessageCode
+import com.keonkotlin.keon_kotlin.common.exceptions.ErrorMessageCode
 import com.keonkotlin.keon_kotlin.member.UserService
 import com.keonkotlin.keon_kotlin.member.model.User
 import com.keonkotlin.keon_kotlin.member.view.LogInView

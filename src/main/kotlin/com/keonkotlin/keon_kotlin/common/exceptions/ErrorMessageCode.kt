@@ -1,4 +1,4 @@
-package com.keonkotlin.keon_kotlin.exceptions
+package com.keonkotlin.keon_kotlin.common.exceptions
 
 enum class ErrorMessageCode(var codeValue: Int, var message: String) {
     SUCCESS(20000, "success"),
